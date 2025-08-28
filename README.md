@@ -1,2 +1,2 @@
-# Lab1_Asadoanalitycs
-Laboratirio1
+# Lab1_AsadoAnalitycs
+Laboratorio1
